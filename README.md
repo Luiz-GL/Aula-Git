@@ -1,2 +1,2 @@
-# Aula Git
- Aula - curso em video
+# Aula Git!
+Repositório criado para fins de teste...
